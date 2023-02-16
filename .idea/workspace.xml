@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dee2fc76-e6e4-45ea-9619-3c421fcf8c71" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/mapper/BrandMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/mapper/BrandMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/itheima/mapper/BrandMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/itheima/mapper/BrandMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/brand.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/brand.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +69,7 @@
       <updated>1676461585922</updated>
       <workItem from="1676461587694" duration="6143000" />
       <workItem from="1676511984941" duration="1846000" />
-      <workItem from="1676529567416" duration="18721000" />
+      <workItem from="1676529567416" duration="19076000" />
     </task>
     <servers />
   </component>
